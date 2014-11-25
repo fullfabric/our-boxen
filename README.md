@@ -143,6 +143,12 @@ This template project provides the following by default:
 * Findutils
 * GNU tar
 
+## And
+
+* MongoDB
+* Passenger
+* Dependencies: v8, libgd
+
 ## Customizing
 
 You can always check out the number of existing modules we already
